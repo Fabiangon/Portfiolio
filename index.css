@@ -168,7 +168,7 @@ color: #fff;
     font-size: 12px;
 }
 .portfolio{
-    background-image: url(../Portfolio/image/image.jpg);
+    background-image: url(../image/image.jpg);
 }
 .title-portfolio{
     width: 100vw;
@@ -198,7 +198,7 @@ color: #fff;
     margin: 1em;
 }
 .card-img{
-    background-image: url(../Portfolio/image/2-original.png);
+    background-image: url(../image/2-original.png);
     width: 100%;
     min-height: 150px;
     background-size: cover;
