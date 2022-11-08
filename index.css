@@ -5,7 +5,7 @@
     text-decoration: none;
     font-family: sans-serif, 'Gill Sans',;
 }
-main {background-image: url(../Portfolio/image/image.jpg);
+main {background-image: url(../image/image.jpg);
 }
 .navbar {
     display: flex;
